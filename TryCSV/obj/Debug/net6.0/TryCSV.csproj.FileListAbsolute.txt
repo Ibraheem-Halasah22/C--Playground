@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\bin\Debug\net6.0\TryCSV.exe
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\bin\Debug\net6.0\TryCSV.deps.json
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\bin\Debug\net6.0\TryCSV.runtimeconfig.json
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\bin\Debug\net6.0\TryCSV.dll
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\bin\Debug\net6.0\TryCSV.pdb
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.csproj.CopyComplete
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.dll
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\refint\TryCSV.dll
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.pdb
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\TryCSV.genruntimeconfig.cache
+C:\Users\hp\Desktop\C# with FTS\playground\TryCSV\obj\Debug\net6.0\ref\TryCSV.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gen_trial", "gen_trial\gen_trial.csproj", "{CC260A11-6930-446E-B50D-1B752EDA62BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCSV", "TryCSV\TryCSV.csproj", "{B61ADD55-2BD4-4718-98DD-AA41FC64FE48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC260A11-6930-446E-B50D-1B752EDA62BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC260A11-6930-446E-B50D-1B752EDA62BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC260A11-6930-446E-B50D-1B752EDA62BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC260A11-6930-446E-B50D-1B752EDA62BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61ADD55-2BD4-4718-98DD-AA41FC64FE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61ADD55-2BD4-4718-98DD-AA41FC64FE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61ADD55-2BD4-4718-98DD-AA41FC64FE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61ADD55-2BD4-4718-98DD-AA41FC64FE48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

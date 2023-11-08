@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\bin\Debug\net6.0\gen_trial.exe
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\bin\Debug\net6.0\gen_trial.deps.json
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\bin\Debug\net6.0\gen_trial.runtimeconfig.json
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\bin\Debug\net6.0\gen_trial.dll
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\bin\Debug\net6.0\gen_trial.pdb
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.dll
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\refint\gen_trial.dll
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.pdb
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\gen_trial.genruntimeconfig.cache
+C:\Users\hp\Desktop\C# with FTS\playground\gen_trial\obj\Debug\net6.0\ref\gen_trial.dll

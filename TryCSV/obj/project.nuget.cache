@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8/84qk9iI1h8gl+3yeY0krMrbwkQH0TP9WIjuNZwH2tr4dIVXWlZyt7PNoyJDqbe44xXqz8aGN2V/r99Ohj7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# with FTS\\playground\\TryCSV\\TryCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
